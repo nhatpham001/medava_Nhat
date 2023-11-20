@@ -1,0 +1,10 @@
+1. does it work with other oop programming languages to call a static method without instantiating an object?
+2. I know we talked about this before but how does virutual methods work?
+3. why do all public classes have to in the same file? what do you do if you want to be more organized and have classes in different file?
+4. why does this need to be asbstract?
+    public abstract MedicineSchedule getSchedule();
+    can't we just make it without abstract so we wouldn't need to change the class's type to abstract?
+5. at the end, you mentioned about about how to use reflection and it seems like it changes the program to dynamically typed for that block of code?
+6. can reflection be done in C++ or python?
+
+
